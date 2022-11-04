@@ -1,0 +1,50 @@
+{
+	"storyName": "THE NERMAL MOD",
+	"difficulties": "Easy, Gay",
+	"hideFreeplay": false,
+	"weekBackground": "nermal",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Nermal",
+			"nerml",
+			[
+				170,
+				170,
+				170
+			]
+		],
+		[
+			"XD",
+			"nerml",
+			[
+				170,
+				170,
+				170
+			]
+		],
+		[
+			"Abuse",
+			"garield",
+			[
+				255,
+				150,
+				15
+			]
+		]
+	],
+	"weekCharacters": [
+		"nermal",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "NERMAL WEEK"
+}

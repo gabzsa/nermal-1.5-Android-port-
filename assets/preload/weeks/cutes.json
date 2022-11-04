@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"cutes",
+			"guy",
+			[
+				163,
+				87,
+				171
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "ourple",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "ourple",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "hi",
+	"startUnlocked": true
+}

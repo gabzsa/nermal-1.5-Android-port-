@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"hi",
+			"boobs",
+			[
+				255,
+				202,
+				68
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hi",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "hi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "nermal",
+	"startUnlocked": true
+}
